@@ -8,4 +8,4 @@ create table res
   controller           varchar(120) comment '资源控制',
   status               tinyint comment '状态',
   primary key (id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
